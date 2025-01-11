@@ -2,12 +2,12 @@
   "response": [
     {
       "datetime": 1734874116,
-      "filename": "lineage-21.0-20241220-UNOFFICIAL-a21s.zip",
-      "id": "fa0c530b0e584d3ef1348a509586e513",
+      "filename": "lineage-22.1-20250111-UNOFFICIAL-a21s.zip",
+      "id": "531b77df5f7338498930c5af1b0e33c6",
       "romtype": "UNOFFICIAL",
-      "size": 922103153,
-      "url": "https://github.com/samsungexynos850/lineage_OTA/releases/download/a21s/lineage-21.0-20241220-UNOFFICIAL-a21s.zip",
-      "version": "21.0"
+      "size": 971915872,
+      "url": "https://github.com/samsungexynos850/lineage_OTA/releases/download/a21s/lineage-22.1-20250111-UNOFFICIAL-a21s.zip",
+      "version": "22.1"
     }
   ]
 }
